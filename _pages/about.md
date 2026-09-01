@@ -17,17 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a machine learning researcher focused on building scalable AI systems and advancing modern deep learning architectures.
+I am a machine learning researcher and AI engineer with 10+ years of experience working on machine learning systems across research and enterprise environments. My recent work focuses on large language models, LLM evaluation, agentic systems, efficient inference, and Mixture-of-Experts architectures. I am particularly interested in building scalable AI systems and understanding how to make increasingly capable models more efficient and practical to deploy.
 
-My research focuses on scalable and modular architectures for next-generation language models, with particular emphasis on Mixture-of-Experts (MoE) systems, efficient inference, and LLM evaluation. I’m interested in improving model specialization, computational efficiency, and robustness in real-world AI systems.
+I received my PhD in Electrical Engineering from [McGill University](https://www.mcgill.ca/) in 2026, where I worked at the McGill Networks Research Lab on machine learning, graph neural networks, Mixture-of-Experts, and Neural Architecture Search. My research explored efficient neural architectures, graph knowledge distillation, and scalable machine learning systems. I also hold a Master's degree in Applied Mathematics from the [National Research University - Higher School of Economics](https://www.hse.ru/) and a Bachelor's degree in Control Systems Engineering from Moscow Technological University.
 
-I'm particularly interested in challenges that emerge at scale, including efficient model routing, structured reasoning, multi-LLM orchestration, and reducing inference costs for large AI systems. My goal is to make powerful machine learning models more practical to operate efficiently in production environments.
+From 2023 to 2026, I worked as an AI Research Scientist at [Huawei Noah's Arc Lab](http://dev3.noahlab.com.hk) in Montreal, where I conducted research on AI, LLMs, and agentic systems. I developed distributed experimentation and inference infrastructure for multi-GPU clusters, including a system capable of orchestrating 500+ concurrent inference jobs. I also worked on LLM evaluation and cost-aware multi-LLM inference, benchmarking 15+ open and proprietary models across reasoning, mathematics, and comprehension datasets.
 
-My broader background combines machine learning research with software engineering and backend system design. I have experience building production-oriented services in Python, designing API-driven ML backends with FastAPI, and developing distributed training and inference systems on multi-GPU clusters. This engineering perspective allows me to bridge the gap between machine learning research and deployable AI systems.
+My broader research interests include scalable machine learning systems, efficient inference, large language models, LLM evaluation, Mixture-of-Experts, graph representation learning, and Neural Architecture Search.
 
 **Research interests:** AI/ML/Deep Learning, Scalable Machine Learning Systems, Efficient Inference and LLM Systems, Large Language Models, Mixture-of-Experts Models, Graph Neural Networks, Neural Architecture Search.
-
-**Technical expertise:** Python, PyTorch, Golang, FastAPI, LLMs, RAG, multi-agent systems, distributed training and inference, ML model deployment, Ray, vLLM, AWS, GCP, Docker, CI/CD, and MLflow.
 
 # 💻 Work Experience
 
@@ -44,9 +42,9 @@ My broader background combines machine learning research with software engineeri
 
 # 💬 Talks
 
-- *2025*, [LLM Evaluation Workshop](https://sites.google.com/view/llm-eval-workshop), NeurIPS 2025.
+- *2025*, [NeurIPS 2025 LLM Evaluation Workshop](https://sites.google.com/view/llm-eval-workshop), Fair Evaluation Protocol for Test-Time Compute.
 - *2025*, [Graph Signal Processing Workshop](https://gspworkshop.org), Graph Knowledge Distillation to Mixture of Experts.
-- *2024*, Neural Architecture Search, ILLS research seminar.
+- *2024*, [ILLS](https://www.staracom.ca/news-en/ills-en) research seminar, Neural Architecture Search.
 - *2023*, [ICASSP 2023](https://2023.ieeeicassp.org), Efficient Zero-Shot Neural Architecture Search.
 
 # 📝 Publications
