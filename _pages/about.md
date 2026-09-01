@@ -17,42 +17,41 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a machine learning researcher and AI engineer with 10+ years of experience working on machine learning systems across research and enterprise environments. My recent work focuses on large language models, LLM evaluation, agentic systems, efficient inference, and Mixture-of-Experts architectures. I am particularly interested in building scalable AI systems and understanding how to make increasingly capable models more efficient and practical to deploy.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I received my PhD in Electrical Engineering from [McGill University](https://www.mcgill.ca/) in 2026, where I worked at the McGill Networks Research Lab on machine learning, graph neural networks, Mixture-of-Experts, and Neural Architecture Search. My research explored efficient neural architectures, graph knowledge distillation, and scalable machine learning systems. I also hold a Master's degree in Applied Mathematics from the [National Research University - Higher School of Economics](https://www.hse.ru/) and a Bachelor's degree in Control Systems Engineering from Moscow Technological University.
 
+From 2023 to 2026, I worked as an AI Research Scientist at [Huawei Noah's Arc Lab](http://dev3.noahlab.com.hk) in Montreal, where I conducted research on AI, LLMs, and agentic systems. I developed distributed experimentation and inference infrastructure for multi-GPU clusters, including a system capable of orchestrating 500+ concurrent inference jobs. I also worked on LLM evaluation and cost-aware multi-LLM inference, benchmarking 15+ open and proprietary models across reasoning, mathematics, and comprehension datasets.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+My broader research interests include scalable machine learning systems, efficient inference, large language models, LLM evaluation, Mixture-of-Experts, graph representation learning, and Neural Architecture Search.
 
-# 📝 Publications 
+**Research interests:** AI/ML/Deep Learning, Scalable Machine Learning Systems, Efficient Inference and LLM Systems, Large Language Models, Mixture-of-Experts Models, Graph Neural Networks, Neural Architecture Search.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 💻 Work Experience
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- *June 2023 – February 2026*, AI Research Scientist, Huawei Noah’s Arc Lab, Montreal, QC, Canada.
+- *September 2021 – November 2022*, AI Developer, 6th Grain, Montreal, QC, Canada (remote).
+- *September 2019 – August 2025*, Graduate AI Researcher, McGill Networks Research Lab, Montreal, QC, Canada.
+- *October 2017 – July 2019*, Machine Learning Engineer, PolySoft, Moscow, Russia.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+# 📖 Education
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- *September 2019 – February 2026*, PhD in Electrical Engineering, McGill University, Montreal, QC, Canada.
+- *September 2017 – May 2019*, Master’s Degree in Applied Mathematics, National Research University Higher School of Economics, Moscow, Russia.
+- *September 2013 – May 2017*, Bachelor’s Degree in Control Systems Engineering, Moscow Technological University, Moscow, Russia.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 💬 Talks
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025*, [NeurIPS 2025 LLM Evaluation Workshop](https://sites.google.com/view/llm-eval-workshop), Fair Evaluation Protocol for Test-Time Compute.
+- *2025*, [Graph Signal Processing Workshop](https://gspworkshop.org), Graph Knowledge Distillation to Mixture of Experts.
+- *2024*, [ILLS](https://www.staracom.ca/news-en/ills-en) research seminar, Neural Architecture Search.
+- *2023*, [ICASSP 2023](https://2023.ieeeicassp.org), Efficient Zero-Shot Neural Architecture Search.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📝 Publications
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- ``NeurIPS 2025 Workshop`` [FEval-TTC: Fair Evaluation Protocol for Test-Time Compute](https://openreview.net/forum?id=Fj9Ge7TdrY), **Pavel Rumiantsev**, Soumyasundar Pal, Yingxue Zhang, and Mark Coates.
+- ``NeurIPS 2025`` [C3PO: Optimized Large Language Model Cascades with Probabilistic Cost Constraints for Reasoning](https://openreview.net/forum?id=e4IlBqhbTO), Antonios Valkanas, Soumyasundar Pal, **Pavel Rumiantsev**, Yingxue Zhang, and Mark Coates.
+- ``TMLR 2025`` [Variation matters: from mitigating to embracing Zero-Shot NAS ranking function variation](https://openreview.net/forum?id=SbGt90dxdp), **Pavel Rumiantsev** and Mark Coates.
+- ``TMLR 2025`` [Sparse Decomposition of Graph Neural Networks](https://openreview.net/forum?id=xdWP1d8BxI), Yaochen Hu, Mai Zeng, Ge Zhang, **Pavel Rumiantsev**, Liheng Ma, Yingxue Zhang, and Mark Coates.
+- ``TMLR 2024`` [Graph Knowledge Distillation to Mixture of Experts](https://openreview.net/forum?id=vzZ3pbNRvh), **Pavel Rumiantsev** and Mark Coates.
+- ``ICASSP 2023`` [Performing Neural Architecture Search without gradients](https://ieeexplore.ieee.org/abstract/document/10094582), **Pavel Rumiantsev** and Mark Coates.
