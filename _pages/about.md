@@ -17,13 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About
-
-I’m a machine learning researcher focused on building scalable AI systems and advancing modern deep learning architectures.
+I'm a machine learning researcher focused on building scalable AI systems and advancing modern deep learning architectures.
 
 My research focuses on scalable and modular architectures for next-generation language models, with particular emphasis on Mixture-of-Experts (MoE) systems, efficient inference, and LLM evaluation. I’m interested in improving model specialization, computational efficiency, and robustness in real-world AI systems.
 
-I’m particularly interested in challenges that emerge at scale, including efficient model routing, structured reasoning, multi-LLM orchestration, and reducing inference costs for large AI systems. My goal is to make powerful machine learning models more practical to operate efficiently in production environments.
+I'm particularly interested in challenges that emerge at scale, including efficient model routing, structured reasoning, multi-LLM orchestration, and reducing inference costs for large AI systems. My goal is to make powerful machine learning models more practical to operate efficiently in production environments.
 
 My broader background combines machine learning research with software engineering and backend system design. I have experience building production-oriented services in Python, designing API-driven ML backends with FastAPI, and developing distributed training and inference systems on multi-GPU clusters. This engineering perspective allows me to bridge the gap between machine learning research and deployable AI systems.
 
@@ -53,9 +51,9 @@ My broader background combines machine learning research with software engineeri
 
 # 📝 Publications
 
-- `NeurIPS 2025 Workshop` [FEval-TTC: Fair Evaluation Protocol for Test-Time Compute](https://openreview.net/forum?id=Fj9Ge7TdrY), Pavel Rumiantsev, Soumyasundar Pal, Yingxue Zhang, and Mark Coates.
-- `NeurIPS 2025` [C3PO: Optimized Large Language Model Cascades with Probabilistic Cost Constraints for Reasoning](https://openreview.net/forum?id=e4IlBqhbTO), Antonios Valkanas, Soumyasundar Pal, **Pavel Rumiantsev**, Yingxue Zhang, and Mark Coates.
-- `TMLR 2025` [Variation matters: from mitigating to embracing Zero-Shot NAS ranking function variation](https://openreview.net/forum?id=SbGt90dxdp), **Pavel Rumiantsev** and Mark Coates.
-- `TMLR 2025` [Sparse Decomposition of Graph Neural Networks](https://openreview.net/forum?id=xdWP1d8BxI), Yaochen Hu, Mai Zeng, Ge Zhang, **Pavel Rumiantsev**, Liheng Ma, Yingxue Zhang, and Mark Coates.
-- `TMLR 2024` [Graph Knowledge Distillation to Mixture of Experts](https://openreview.net/forum?id=vzZ3pbNRvh), **Pavel Rumiantsev** and Mark Coates.
-- `ICASSP 2023` [Performing Neural Architecture Search without gradients](https://ieeexplore.ieee.org/abstract/document/10094582), **Pavel Rumiantsev** and Mark Coates.
+- ``NeurIPS 2025 Workshop`` [FEval-TTC: Fair Evaluation Protocol for Test-Time Compute](https://openreview.net/forum?id=Fj9Ge7TdrY), **Pavel Rumiantsev**, Soumyasundar Pal, Yingxue Zhang, and Mark Coates.
+- ``NeurIPS 2025`` [C3PO: Optimized Large Language Model Cascades with Probabilistic Cost Constraints for Reasoning](https://openreview.net/forum?id=e4IlBqhbTO), Antonios Valkanas, Soumyasundar Pal, **Pavel Rumiantsev**, Yingxue Zhang, and Mark Coates.
+- ``TMLR 2025`` [Variation matters: from mitigating to embracing Zero-Shot NAS ranking function variation](https://openreview.net/forum?id=SbGt90dxdp), **Pavel Rumiantsev** and Mark Coates.
+- ``TMLR 2025`` [Sparse Decomposition of Graph Neural Networks](https://openreview.net/forum?id=xdWP1d8BxI), Yaochen Hu, Mai Zeng, Ge Zhang, **Pavel Rumiantsev**, Liheng Ma, Yingxue Zhang, and Mark Coates.
+- ``TMLR 2024`` [Graph Knowledge Distillation to Mixture of Experts](https://openreview.net/forum?id=vzZ3pbNRvh), **Pavel Rumiantsev** and Mark Coates.
+- ``ICASSP 2023`` [Performing Neural Architecture Search without gradients](https://ieeexplore.ieee.org/abstract/document/10094582), **Pavel Rumiantsev** and Mark Coates.
