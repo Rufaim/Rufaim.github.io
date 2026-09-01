@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Pavel Rumiantsev"
   avatar           : "images/profile_image.jpg"
-  bio              : "bio"
+  bio              : 
   location         : "Canada"
   employer         :
   pubmed           : 
