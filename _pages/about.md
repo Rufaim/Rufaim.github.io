@@ -40,6 +40,14 @@ My broader research interests include scalable machine learning systems, efficie
 - *September 2017 – May 2019*, Master’s Degree in Applied Mathematics, National Research University Higher School of Economics, Moscow, Russia.
 - *September 2013 – May 2017*, Bachelor’s Degree in Control Systems Engineering, Moscow Technological University, Moscow, Russia.
 
+# 📚 Teaching activity
+
+- *September 2021 – May 2023*, Teaching Assistant, ECSE-416: Telecommunication Networks, McGill University, Montreal, QC, Canada.
+- *September 2022 – December 2022*, Computer Science Grader, ECSE-437: Software Delivery, McGill University, Montreal, QC, Canada.
+- *January 2021 – May 2021*, Mathematics Grader, MATH-560: Optimization, McGill University, Montreal, QC, Canada.
+- *September 2018 – November 2018*, Teaching Assistant, Applied Statistics, National Research University Higher School of Economics, Moscow, Russia.
+
+
 # 💬 Talks
 
 - *2025*, [NeurIPS 2025 LLM Evaluation Workshop](https://sites.google.com/view/llm-eval-workshop), Fair Evaluation Protocol for Test-Time Compute.
